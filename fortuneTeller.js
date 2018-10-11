@@ -6,8 +6,8 @@ console.log('I am a ' + jobTitle + ' in ' + geoLocal + ' and I am married to ' +
 }
 
 tellFortune(3, 'Step', 'Atlanta', 'Program Designer');
-tellFortune(3, 'Step', 'Atlanta', 'Program Designer');
-tellFortune(3, 'Step', 'Atlanta', 'Program Designer');
+tellFortune(10, 'Andrea', 'Athens', 'Financial Planner');
+tellFortune(4, 'Mallory', 'San Deigo', 'Microvascular Surgeon');
 
 
 /*function calculateSupply(age, dailyAmount ) {
