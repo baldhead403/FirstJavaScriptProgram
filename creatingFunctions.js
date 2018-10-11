@@ -14,5 +14,36 @@ function fToC(fahrenheit)
   let output = fTemp+'\xB0F is ' + fToCel + '\xB0C.';
     console.log(output);
 } 
-cToF(26.7);
-fToC(98.6);
+cToF()
+fToC()
+
+/*function numCounter() {
+
+  
+  for ( i = 0; i <= 100; i++) {
+    
+     console.log(i) 
+  }
+    
+
+
+}
+numCounter();*/
+
+/*(function numCounter(num) {
+
+  
+    for ( i = 1; i <= num; i++) {
+      
+       console.log(i) 
+    }
+      
+  
+  
+  }
+  numCounter(18);
+
+  function printName(firstName, lastName) {
+    console.log(firstName + lastName)  
+} 
+printName("Donald"," Rivers"); */
