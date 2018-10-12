@@ -1,4 +1,4 @@
-function tellFortune(numChildren, mateName, geoLocal, jobTitle) {
+/*function tellFortune(numChildren, mateName, geoLocal, jobTitle) {
   
     
 
@@ -10,7 +10,7 @@ tellFortune(10, 'Andrea', 'Athens', 'Financial Planner');
 tellFortune(4, 'Mallory', 'San Deigo', 'Microvascular Surgeon');
 
 
-/*function calculateSupply(age, dailyAmount ) {
+function calculateSupply(age, dailyAmount ) {
 
     
         const maxAge = 113
@@ -34,3 +34,15 @@ function calArea(radius,) {
 }
 calcCircumference(14);
 calArea(26);*/
+
+function alphabetical(string,  ) {
+    // targetString = "I am A BAMF Programmer "
+    twoString = string.toLowerCase().split('').sort( ).join('')
+    alphabetized = twoString
+    newString = alphabetized
+
+   console.log(newString)
+    
+
+}
+alphabetical("I am A BAMF Programmer ");
